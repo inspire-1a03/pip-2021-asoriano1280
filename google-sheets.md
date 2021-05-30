@@ -11,6 +11,8 @@ nav_order: 2
 
 <!-- Paste your embed code for your figure below-->
 
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUsxD98EmBSMsiyhxv8TCdff0ehpxX7NB9E1owTgdw_E6RolN2OnHajZeQ9tKmCDdsXsUNTn2-wLQR/pubchart?oid=1717651498&amp;format=interactive"></iframe>
+
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
@@ -20,6 +22,8 @@ nav_order: 2
 > Q2: How has Ontario responded to COVID in terms of testing and vaccinations? 
 
 <!-- Paste your embed code for your figure below-->
+
+<iframe width="749" height="390" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUsxD98EmBSMsiyhxv8TCdff0ehpxX7NB9E1owTgdw_E6RolN2OnHajZeQ9tKmCDdsXsUNTn2-wLQR/pubchart?oid=1421933522&amp;format=interactive"></iframe>
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
@@ -31,6 +35,8 @@ nav_order: 2
 
 <!-- Paste your embed code for your figure below-->
 
+<iframe width="749" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUsxD98EmBSMsiyhxv8TCdff0ehpxX7NB9E1owTgdw_E6RolN2OnHajZeQ9tKmCDdsXsUNTn2-wLQR/pubchart?oid=1971225954&amp;format=interactive"></iframe>
+
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
 
@@ -40,6 +46,8 @@ nav_order: 2
 > Q4. How has mobility changed in Canada over the pandemic?
 
 <!-- Paste your embed code for your figure below-->
+
+<iframe width="974" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRp02UrntY06Et_kahIqme2_ktrkBlPRylvrONqzMSxglqQ-PlRdNT0czfMSqAHc9zva4Q0HpX4qToR/pubchart?oid=1598165103&amp;format=interactive"></iframe>
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
