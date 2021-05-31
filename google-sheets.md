@@ -50,7 +50,7 @@ Canada’s Territories (Yukon, Northwest Territories, and Nunavut) consisted of 
 <iframe width="974" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRp02UrntY06Et_kahIqme2_ktrkBlPRylvrONqzMSxglqQ-PlRdNT0czfMSqAHc9zva4Q0HpX4qToR/pubchart?oid=1598165103&amp;format=interactive"></iframe>
 
 #### Summary
-<!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
+As observed in the figure above, going to parks has increased sufficiently during Summer 2020. Due to the pandemic, individuals had little to no access to the gym, resulting in alternative ways to stay active such as visiting the parks based on the season and weather conditions. 
 
 ## Final reflection
 > What inferences can you make from the data you have explored and visualized? 
