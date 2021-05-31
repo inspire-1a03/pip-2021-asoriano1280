@@ -38,7 +38,7 @@ Throughout the pandemic, as Ontario was able to accommodate more testing and pro
 <iframe width="819" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUsxD98EmBSMsiyhxv8TCdff0ehpxX7NB9E1owTgdw_E6RolN2OnHajZeQ9tKmCDdsXsUNTn2-wLQR/pubchart?oid=1971225954&amp;format=interactive"></iframe>
 
 #### Summary
-<!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
+Canada’s Territories (Yukon, Northwest Territories, and Nunavut) consisted of higher vaccination rates compared to the provinces. Infection can affect Indigenous communities detrimentally due to difficulty in accessing health care infrastructures, challenges in physical distancing, and other factors that represent why indigenous populations were and should be prioritized for the initial doses. 
 
 ---
 
