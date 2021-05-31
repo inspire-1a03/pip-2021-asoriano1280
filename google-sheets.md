@@ -14,7 +14,7 @@ nav_order: 2
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUsxD98EmBSMsiyhxv8TCdff0ehpxX7NB9E1owTgdw_E6RolN2OnHajZeQ9tKmCDdsXsUNTn2-wLQR/pubchart?oid=1717651498&amp;format=interactive"></iframe>
 
 #### Summary
-Canada has experienced three waves from the start of the pandemic. The amount of cases increased drastically from the start of lockdown to the second and third waves, daily fatalities are observed to be the most dramatic during the first and second wave, and lastly the number of active hospitalizations dropped low during the summer of 2020 then surpassed its initial peak in the second and third waves. 
+Canada has experienced three waves from the start of the pandemic. The amount of cases increased drastically from the beginning of lockdown to the second and third waves, daily fatalities are observed to be the most dramatic during the first and second wave, and lastly the number of active hospitalizations dropped low during the summer of 2020 then surpassed its initial peak in the second and third waves. 
 
 ---
 
@@ -26,7 +26,7 @@ Canada has experienced three waves from the start of the pandemic. The amount of
 <iframe width="749" height="390" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUsxD98EmBSMsiyhxv8TCdff0ehpxX7NB9E1owTgdw_E6RolN2OnHajZeQ9tKmCDdsXsUNTn2-wLQR/pubchart?oid=1421933522&amp;format=interactive"></iframe>
 
 #### Summary
-Throughout the pandemic, as Ontario was able to accommodate more testing and provide results faster, the amount of testing has increased greatly from Spring 2020 to Spring 2021. Ontario has also responded with vaccinations by prioritizing specific groups accordingly and is experiencing a rapid increase due to more and more vaccine being supplied. 
+Throughout the pandemic, as Ontario was able to accommodate more testing and provide results faster, the amount of testing has increased greatly from Spring 2020 to Spring 2021. Ontario has also responded with vaccinations by prioritizing specific groups accordingly and is experiencing a rapid increase due to more and more vaccines being supplied. 
 
 ---
 
@@ -35,7 +35,7 @@ Throughout the pandemic, as Ontario was able to accommodate more testing and pro
 
 <!-- Paste your embed code for your figure below-->
 
-<iframe width="436" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUsxD98EmBSMsiyhxv8TCdff0ehpxX7NB9E1owTgdw_E6RolN2OnHajZeQ9tKmCDdsXsUNTn2-wLQR/pubchart?oid=1971225954&amp;format=interactive"></iframe>
+<iframe width="819" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUsxD98EmBSMsiyhxv8TCdff0ehpxX7NB9E1owTgdw_E6RolN2OnHajZeQ9tKmCDdsXsUNTn2-wLQR/pubchart?oid=1971225954&amp;format=interactive"></iframe>
 
 #### Summary
 <!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
