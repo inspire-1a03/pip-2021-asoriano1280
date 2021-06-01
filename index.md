@@ -10,3 +10,10 @@ This website has been created by Arianne Soriano as part of the **Patterns in th
 
 ![Picture of Canada](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Canada_labelled_map.svg/1200px-Canada_labelled_map.svg.png)
 
+# What you'll find
+
+- Patterns and trends throughout the Pandemic in Canada
+- Territory and Provincial specific details regarding COVID 
+- Testing rates
+- Vaccination rates
+- And more!
