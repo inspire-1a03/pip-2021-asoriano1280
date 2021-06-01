@@ -12,9 +12,7 @@ nav_order: 4
 
 <!-- Paste your embed code for your figure below-->
 
-
-
-https://public.tableau.com/views/asoriano-changes-ThundervsToronto/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/asoriano-changes-ThundervsToronto/Sheet1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '650' scrolling='no'></iframe>
 
 #### Summary
 Toronto is a big city with so much infrastructure that space can be limited. Comparing to an area such as Thunderbay, where it is more accessible to nature and more parks, can explain why visitation is greater. 
@@ -24,7 +22,7 @@ Toronto is a big city with so much infrastructure that space can be limited. Com
 
 ## 2. Inquiry 2
 
-> Q2: *enter your question here*
+> Q2: How has travel to parks changed over time in Alberta’s counties/municipalities?
 
 <!-- Paste your embed code for your figure below-->
 
@@ -37,7 +35,7 @@ Toronto is a big city with so much infrastructure that space can be limited. Com
 
 ## 3. Inquiry 3
 
-> Q3: *enter your question here*
+> Q3: How has travel to workplaces changed over time in Canada?
 
 <!-- Paste your embed code for your figure below-->
 
