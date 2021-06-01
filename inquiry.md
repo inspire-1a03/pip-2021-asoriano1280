@@ -15,7 +15,8 @@ nav_order: 4
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/asoriano-changes-ThundervsToronto/Sheet1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '650' scrolling='no'></iframe>
 
 #### Summary
-Toronto is a big city with so much infrastructure that space can be limited. Comparing to an area such as Thunderbay, where it is more accessible to nature and more parks, can explain why visitation is greater. 
+
+Even though an area such as Thunderbay, where it is more accessible to nature and parks, Toronto consist of many parks and trails within the city that residents can attend to. As well, Toronto being a greater populated area than Thunderbay, can explain why visitation between the areas can differ yet be so similar.
 
 
 ---
