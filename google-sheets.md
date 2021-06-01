@@ -57,5 +57,5 @@ As observed in the figure above, going to parks has increased sufficiently durin
 > What questions still exist about the trends and the data? What new questions has this process generated? 
 > What additional information would you like to help answer these questions? 
 
-<!-- Write a short response below-->
+Based on the data that I have explored, it is interesting to see how much each Territory and Province differ and share some similarities between each other on so many factors in regards to COVID. Living in Ontario it is easier to be informed on what is happening throughout my own Province but it is informative to see the progressions of other places around Canada as well. The only questions that come to mind throughout this process would be based on the well being of individuals during these times. I am interested to see during the months where there was a dip in park visitation, what fulfilled the time of people instead. I am also curious about the amount of screen time and what that average would be for a Canadian adult through the start of the Pandemic. 
 
