@@ -26,8 +26,11 @@ Toronto is a big city with so much infrastructure that space can be limited. Com
 
 <!-- Paste your embed code for your figure below-->
 
+<iframe seamless frameborder="0" src="https://public.tableau.com/views/asoriano-change-alberta/Sheet1?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '650' scrolling='no'></iframe>
+
 #### Summary
-<!-- Write a 2-sentence summary of the trends shown in the figure embedded above-->
+
+Interesting to see how other areas in a different province have trends similar to Ontario. Visitation rate to parks is higher in Red Deer, similar to a Surburb, and Calgary coming close to it as well. Rate of visitation in Alberta is on a higher scale which may be due to the increase in outdoor locations.
 
 
 ---
